@@ -9,7 +9,6 @@ I am a recent graduate in the Cybersecurity field with a profound interest in te
 My journey through out my childhood involving computers since little has led me to develop a passion for technology specially in cybersecurity, and I am now eager to get into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -52,11 +51,8 @@ My journey through out my childhood involving computers since little has led me 
 ## Certifications
 
 <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Ironhack-1F88E5?&style=for-the-badge&logo=Ironhack&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+
 </div>
 
 ## Projects
