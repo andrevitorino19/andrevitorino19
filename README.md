@@ -12,12 +12,10 @@ My journey through out my childhood involving computers since little has led me 
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Homelab Project(VM-Pentest-Setup)             | <a href="https://github.com/andrevitorino19/Homelab-Cybersecurity-Project">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+| Home lab payload injection                    | <a href="https://github.com/andrevitorino19/Homelab-Cybersecurity-Project">Home Lab(VM-Pentest-Setup)</a>|
+| Python Script Coding                          | <a href="https://github.com/andrevitorino19/Password-Strenght-Checker">Password Strenght Checker</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+
 
 ## Tools
 
